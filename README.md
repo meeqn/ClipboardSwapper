@@ -1,3 +1,3 @@
 # ClipboardSwapper
-A program for intercepting Windows clipboard changes \n
+A program for intercepting Windows clipboard changes  
 hello
